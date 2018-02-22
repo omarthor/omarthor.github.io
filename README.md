@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Required npm and the associated dependencies outlined in the source repository [package.json](https://github.com/thorigin/thorigin.com-src/blob/master/package.json) file.
+Required npm and the associated dependencies outlined in [package.json](package.json)
 
 ## Deployment
 
